@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Osman/Desktop/kotlin dersleri techcareer/DisneyPlus/app/src/main/res/layout/sana_ozel_oneriler_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Osman/Desktop/kotlin dersleri techcareer/DisneyPlus/app/src/main/res/layout/ust_kisim_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/dggnb/AndroidStudioProjects/DisneyPlus/app/src/main/res/layout/en_cok_izlenenler_card.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/dggnb/AndroidStudioProjects/DisneyPlus/app/src/main/res/layout/fragment_anasayfa.xml" value="0.33" />
+        <entry key="..\:/Users/dggnb/AndroidStudioProjects/DisneyPlus/app/src/main/res/layout/hit_filmler_card.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/dggnb/AndroidStudioProjects/DisneyPlus/app/src/main/res/layout/sana_ozel_oneriler_card.xml" value="0.33" />
+        <entry key="..\:/Users/dggnb/AndroidStudioProjects/DisneyPlus/app/src/main/res/layout/ust_kisim_card.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
